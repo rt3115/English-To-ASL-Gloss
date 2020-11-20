@@ -19,6 +19,11 @@ The second chunck is done in a similiar way, and in this case does not need any 
 Object/subject first, in this case, who? She, she what? She's upset. To clean it up, we remove all ' and plural as they are not needed. \
 **More details on the grammar works, further down in this document**
 
+#### Test Sentences 
+* It is so hot outside -> OUTSIDE HOT \
+* Tilden married Elizabeth Cole, who was a former student at the California School for the Deaf -> TILDEN MARRIED PERSON NAME ELIZABETH COLE SELF STUDENT BEFORE CA SCHOOL FOR DEAF \
+
+
 ## Known Issues
 
 ## Language Choice
