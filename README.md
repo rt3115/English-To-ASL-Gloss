@@ -20,8 +20,9 @@ Object/subject first, in this case, who? She, she what? She's upset. To clean it
 **More details on the grammar works, further down in this document**
 
 #### Test Sentences 
-* It is so hot outside -> OUTSIDE HOT \
-* Tilden married Elizabeth Cole, who was a former student at the California School for the Deaf -> TILDEN MARRIED PERSON NAME ELIZABETH COLE SELF STUDENT BEFORE CA SCHOOL FOR DEAF \
+* It is so hot outside -> OUTSIDE HOT 
+* Tilden married Elizabeth Cole, who was a former student at the California School for the Deaf -> T-I-L-D-E-N MARRIED PERSON NAME E-L-I-Z-A-B-E-T-H C-O-L-E SELF STUDENT BEFORE CA SCHOOL FOR DEAF 
+* 
 
 
 ## Known Issues
