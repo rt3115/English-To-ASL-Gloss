@@ -7,4 +7,4 @@ A simple application made during a series on twitch.tv/strychnos of simple/fun c
 
 ## Language Choice
 
-## ASL Grammer Rules
+## ASL Grammar Rules
